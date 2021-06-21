@@ -1,8 +1,10 @@
 function f = fcoeffunction_nondim(location,state)
 %FOCOEFFFUNCTION_NONDIM provides the f matrix for PDEToolbox.
 
-% $Author: Lukas Eigentler
-% Last updated: 08/06/2021
+% Author: Lukas Eigentler (leigentler001@dundee.ac.uk)
+% License: GNU GPL
+% Last updated: 21/06/2021
+
 global kcap kmax c sigma
 N = 2; % Number of equations
 nr = length(location.x); % Number of columns
