@@ -5,8 +5,9 @@ function uinit = u0fun_both_non_uniform(location)
 % spatial mesh based on the locations of the mesh's nodes given by the
 % location vector
 
-% $Author: Lukas Eigentler
-% Last updated: 08/06/2021
+% Author: Lukas Eigentler (leigentler001@dundee.ac.uk)
+% License: GNU GPL
+% Last updated: 21/06/2021
 
 global kcap Cxloc_in_B1 Cyloc_in_B1 Cxloc_in_B2 Cyloc_in_B2
 M = length(location.x);
