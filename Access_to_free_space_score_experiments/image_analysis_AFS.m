@@ -21,8 +21,9 @@
 % the "Merged" image is saved in the folder "Figures".
 % Please note the license file for the function "DeltaE_mod.m".
 
-% Author: Lukas Eigentler
-% Last updated: 08/06/2021
+% Author: Lukas Eigentler (leigentler001@dundee.ac.uk)
+% License: GNU GPL
+% Last updated: 21/06/2021
 
 clear; close all;
 % cas = '3610_vs_6153'; % select strain pair
