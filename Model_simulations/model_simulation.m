@@ -3,8 +3,9 @@
 %MODEL_SIMULATION implements models (1) and (4) using a finite element
 %method. Note that the PDEToolbox is required.
 
-% Author: Lukas Eigentler
-% Last updated: 08/06/2021
+% Author: Lukas Eigentler (leigentler001@dundee.ac.uk)
+% License: GNU GPL
+% Last updated: 21/06/2021
 
 
 
