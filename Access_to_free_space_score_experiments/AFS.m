@@ -7,8 +7,9 @@ function [blue_length,accept] = AFS(filepath, identifier,size_threshold)
 %   returns accept, a user-defined string that enables the parent code to
 %   either accept or reject the outcome.
 %
-% Author: Lukas Eigentler
-% Last updated: 08/06/2021
+% Author: Lukas Eigentler (leigentler001@dundee.ac.uk)
+% License: GNU GPL
+% Last updated: 21/06/2021
 
 close all;
 Files = dir(filepath); % read all files
