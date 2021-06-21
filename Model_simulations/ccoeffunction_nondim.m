@@ -1,8 +1,9 @@
 function cmat = ccoeffunction_nondim(location,state)
 %COCOEFFFUNCTION_NONDIM provides the c matrix for PDEToolbox.
 
-% $Author: Lukas Eigentler
-% Last updated: 08/06/2021
+% Author: Lukas Eigentler (leigentler001@dundee.ac.uk)
+% License: GNU GPL
+% Last updated: 21/06/2021
 
 global d kcap N time_start
 % time_check = toc(time_start);
